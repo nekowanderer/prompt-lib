@@ -18,7 +18,7 @@
   - Global agent behavioral guidelines:
     - $CONTEXT/general/agent_prompt.md
   - Definitions of available agent tools:
-    - $CONTEXT/general/agent_tools.md
+    - $CONTEXT/general/agent_tools.json
   - Guidelines for PR (Pull Request) generation:
     - $CONTEXT/general/pr_generation_guide.md
   - Guidelines for image generation for technical notes:

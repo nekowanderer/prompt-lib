@@ -18,7 +18,7 @@
     - 全域的代理行為準則：
     - $CONTEXT/general/agent_prompt.md
     - 可用的 agent tool 定義：
-    - $CONTEXT/general/agent_tools.md
+    - $CONTEXT/general/agent_tools.json
     - PR 的產生準則：
     - $CONTEXT/general/pr_generation_guide.md
     - 關於技術筆記用的圖片繪製
