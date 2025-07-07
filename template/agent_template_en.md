@@ -3,6 +3,7 @@
 - On this machine, only the following directories are allowed for querying reference prompt files:
   - path_to/prompt-lib
   - Hereafter, this directory will be referred to as $CONTEXT.
+- Please read the following guidelines before starting interaction with the user.
 
 
 ## Language Guidelines
@@ -21,6 +22,13 @@
     - $CONTEXT/general/agent_tools.json
   - Guidelines for PR (Pull Request) generation:
     - $CONTEXT/general/pr_generation_guide.md
-  - Guidelines for image generation for technical notes:
-    - $CONTEXT/general/pr_generation_guide.md
-- Read and understand all of the above guidelines before starting interaction with the user.
+
+
+## Summary Generation Guidelines
+
+- When the user explicitly requests a conversation summary or project reference, please provide a complete and standalone summary based on $CONTEXT/general/compact.md, formatted into six major sections.
+
+
+## Reload Context Guidelines
+
+- When the user indicates a need to reload the progress of the previous session, please use $CONTEXT/general/continue.md as a prompt and proceed with the relevant reading operations based on the file provided by the user.
