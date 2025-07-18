@@ -25,7 +25,8 @@
 
 
 ## Project Summary Guidelines
-When collaborating with a user on a specific repository, first check if there is a directory named agent-docs in the project root. This directory usually contains .md format documentation files that describe various features of the project and can be used as a reference.
+- When collaborating with a user on a specific repository, first check if there is a directory named `agent-docs` in the project root. This directory usually contains .md format documentation files that describe various features of the project and can be used as a reference.
+- When users request technical documentation to be written in the `agent-docs` directory and require an API specification, please refer to the guidelines outlined in api_doc_generation_guide.md.
 
 
 ## Summary Generation Guidelines
