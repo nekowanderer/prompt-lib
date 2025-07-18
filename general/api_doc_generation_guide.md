@@ -4,7 +4,7 @@
 
 > 本模板參考 OpenAPI/Swagger 與 Google/Facebook/Microsoft 等主流文件設計，適合人工與自動化產出。
 
-| attribute              | Required | Description                         |
+| Attribute              | Required | Description                         |
 | ---------------------- | -------- | ----------------------------------- |
 | **Endpoint / Path**    |     Y    | `/user/delete`（API 路徑）              |
 | **Method**             |     Y    | `DELETE`（HTTP 方法）                   |
@@ -25,7 +25,7 @@
 - 技術上通常是透過 HTTP header 傳遞（如 Authorization: Bearer <JWT>、x-api-key: <API_KEY>、client_id: <CLIENT_ID>）。
 - 文件中特別獨立這兩個欄位，是為了讓閱讀者能快速瞭解 endpoint 的安全需求，並非唯一做法，僅供文件產生時快速溝通。
 - **常見範例：**
-    | attribute      | Required | Description     |
+    | Attribute      | Required | Description     |
     |----------------|----------|----------------|
     | Authentication | Y        | API client ID  | 
     | Authorization  | Y        | Bearer <JWT>   |
