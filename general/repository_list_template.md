@@ -2,9 +2,13 @@
 
 This file will list all the necessary repositories and their location in this computer, please use this file as the rerefence when working on the cross-project tasks.
 
+Environment variables
+- $REPO_HOME: /Users/clu/work/repo
+
 For each repo, the metadata will look like:
 ```
 - Purpose:
+- Localtion:
 - Stack
   - Programming language:
   - Build tool:
@@ -17,6 +21,7 @@ For each repo, the metadata will look like:
 ## Repositories
 #### xxx-service
 - Purpose:
+- Localtion:
 - Stack
   - Programming language: Java 17
   - Build tool: Gradle
