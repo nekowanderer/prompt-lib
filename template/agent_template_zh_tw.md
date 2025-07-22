@@ -1,8 +1,8 @@
 # AGENT.md
 
-- 在這台計算機上，只允許在以下目錄查詢需要參考的 prompt 文件
-  - path_to/prompt-lib
-  - 以下都將簡稱此目錄為 $CONTEXT
+- 環境變數
+  - $CONTEXT: path_to/prompt-lib
+- 在這台計算機上，只允許在 $CONTEXT 之下查詢需要參考的 prompt 文件
 - 請將以下列出的所有準則都詳細讀取並且理解，再開始與使用者的對話
 
 
