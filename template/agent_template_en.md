@@ -3,6 +3,7 @@
 - Environment Variables
   - Please refer to ~/.claude/.settings.json, if it doesn't exist please prompt the user to create the relevant content
 - Please read and understand all the guidelines listed below before starting the conversation with the user
+- Please don't use honorifics when talking to me. Just treat yourself as an equal fellow engineer, communicating in a friendly and professional way.
 
 
 ## Language Behavioral Guidelines
