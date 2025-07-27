@@ -2,8 +2,7 @@
 
 This file will list all the necessary repositories and their location in this computer, please use this file as the rerefence when working on the cross-project tasks.
 
-Environment variables
-- $REPO_HOME: /Users/clu/work/repo
+Repository location: $REPOSITORIES
 
 For each repo, the metadata will look like:
 ```
